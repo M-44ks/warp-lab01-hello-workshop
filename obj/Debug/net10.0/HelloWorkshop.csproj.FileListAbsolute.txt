@@ -12,3 +12,4 @@ C:\Users\s37905\RiderProjects\HelloWorkshop\obj\Debug\net10.0\refint\HelloWorksh
 C:\Users\s37905\RiderProjects\HelloWorkshop\obj\Debug\net10.0\HelloWorkshop.pdb
 C:\Users\s37905\RiderProjects\HelloWorkshop\obj\Debug\net10.0\HelloWorkshop.genruntimeconfig.cache
 C:\Users\s37905\RiderProjects\HelloWorkshop\obj\Debug\net10.0\ref\HelloWorkshop.dll
+C:\Users\s37905\RiderProjects\HelloWorkshop\obj\Debug\net10.0\HelloWorkshop.sourcelink.json
