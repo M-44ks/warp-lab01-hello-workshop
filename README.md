@@ -7,3 +7,6 @@ Aplikacja konsolowa .NET stworzenia podczas laboratorium.
 Autor: S37905 - Warsztat Programisty
 
 ## Uruchomienie
+\`\`\`bash
+dotnet run
+\`\`\`
